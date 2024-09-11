@@ -24,5 +24,5 @@ This is an OSINT tool that checks accounts on Indian websites based on a provide
 ## Usage
 - Run the tool:
     ```bash
-    python osint.py
+    python osint2.py
     ```
