@@ -1,11 +1,12 @@
-# Cyber_security_OSINT_tool
+# Cyber Security OSINT Tool
 
-This is an OSINT tool that checks accounts on Indian websites based on a provided username, email, or phone number.
+This tool is designed for Open-Source Intelligence (OSINT) to check if a user profile exists on popular Indian websites. It helps in locating social media, professional, and other platform profiles based on a given username.
 
-## Features
-- Checks multiple websites to find linked profiles.
-- Verifies website status and if an account exists.
-- Gathers available public information.
+## Features:
+- Scans popular Indian websites for user profiles.
+- Multithreaded for faster scanning.
+- Checks websites like Instagram, LinkedIn, Flipkart, Naukri, and many more.
+
 
 ## Installation
 1. Clone the repository:
@@ -16,7 +17,7 @@ This is an OSINT tool that checks accounts on Indian websites based on a provide
     ```bash
     cd Cyber_security_OSINT_tool
     ```
-3. Install the required dependencies:
+4. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
@@ -24,5 +25,5 @@ This is an OSINT tool that checks accounts on Indian websites based on a provide
 ## Usage
 - Run the tool:
     ```bash
-    python osint2.py
+    python Osint_tool.py
     ```
