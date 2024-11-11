@@ -7,6 +7,9 @@ This tool is designed for Open-Source Intelligence (OSINT) to check if a user pr
 - Multithreaded for faster scanning.
 - Checks websites like Instagram, LinkedIn, Flipkart, Naukri, and many more.
 
+## Screenshot
+![OSINT Tool Screenshot](screenshot.png)
+
 
 ## Installation
 1. Clone the repository:
